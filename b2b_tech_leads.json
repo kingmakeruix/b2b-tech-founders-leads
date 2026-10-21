@@ -1,0 +1,82 @@
+[
+  {
+    "Company": "Supabase | The Postgres Development Platform",
+    "Website": "https://supabase.com",
+    "Description": "Build production-grade applications with a Postgres database, Authentication, instant APIs, Realtime, Functions, Storage and Vector embeddings. Start ",
+    "Primary_Email": "info@supabase.com",
+    "All_Emails": "",
+    "Twitter": "https://twitter.com/nerdburn/status/1356857261495214085",
+    "GitHub": "https://github.com/supabase/supabase",
+    "LinkedIn": ""
+  },
+  {
+    "Company": "Resend · Email for developers",
+    "Website": "https://resend.com",
+    "Description": "The best way to reach humans instead of spam folders. Deliver transactional and marketing emails at scale.",
+    "Primary_Email": "delivered@resend.dev",
+    "All_Emails": "delivered@resend.dev; onboarding@resend.dev; works.delivereddelivered@resend.devSendHTTP; agoTestSendFromyour.name@acme.comTo",
+    "Twitter": "https://x.com/resend",
+    "GitHub": "https://github.com/resend/resend-node-example",
+    "LinkedIn": "https://linkedin.com/company/resend"
+  },
+  {
+    "Company": "Cal.com | Scheduling Software for Online Bookings",
+    "Website": "https://cal.com",
+    "Description": "A fully customizable scheduling software for individuals, businesses taking calls and developers building scheduling platforms where users meet users.",
+    "Primary_Email": "info@cal.com",
+    "All_Emails": "",
+    "Twitter": "",
+    "GitHub": "",
+    "LinkedIn": ""
+  },
+  {
+    "Company": "",
+    "Website": "https://posthog.com",
+    "Description": "PostHog automatically diagnoses problems, fixes bugs, and generates pull requests – all without you having to prompt it.",
+    "Primary_Email": "info@posthog.com",
+    "All_Emails": "",
+    "Twitter": "",
+    "GitHub": "",
+    "LinkedIn": ""
+  },
+  {
+    "Company": "Dub",
+    "Website": "https://dub.co",
+    "Description": "Dub is the modern link attribution platform for short links, conversion tracking, and affiliate programs.",
+    "Primary_Email": "Wilsondanielle@dub.coLifetime",
+    "All_Emails": "Wilsondanielle@dub.coLifetime; Carteremily@acme.comFound",
+    "Twitter": "",
+    "GitHub": "",
+    "LinkedIn": ""
+  },
+  {
+    "Company": "The Open Source Experience Data Hub",
+    "Website": "https://formbricks.com",
+    "Description": "Formbricks is an open-source experience management platform for surveys, in-app feedback, and customer insights. Own your data with full privacy.",
+    "Primary_Email": "info@formbricks.com",
+    "All_Emails": "",
+    "Twitter": "",
+    "GitHub": "https://github.com/formbricks/formbricks",
+    "LinkedIn": "https://www.linkedin.com/company/formbricks"
+  },
+  {
+    "Company": "Papermark | Secure data rooms for modern dealmakers",
+    "Website": "https://papermark.io",
+    "Description": "Secure data rooms and document sharing for M&A, due diligence, fundraising, and high-stakes deals. DocSend alternative with page-level analytics, gran",
+    "Primary_Email": "Wrightjwright@accel.com2",
+    "All_Emails": "Wrightjwright@accel.com2; Sharmapriya@lightspeed.com9; Kovacselena@indexventures.com7; Chensarah@sequoia.com4; Torresm.torres@a16z.com12; Kimdavid@greylock.com6",
+    "Twitter": "https://twitter.com/papermarkio",
+    "GitHub": "https://github.com/papermark",
+    "LinkedIn": "https://www.linkedin.com/in/alonso-benavides-panizo-96b741127/"
+  },
+  {
+    "Company": "Twenty | #1 Open Source CRM",
+    "Website": "https://twenty.com",
+    "Description": "The #1 Open Source CRM for modern teams. Modular, scalable, and built to fit your business.",
+    "Primary_Email": "info@twenty.com",
+    "All_Emails": "",
+    "Twitter": "https://x.com/twentycrm",
+    "GitHub": "https://github.com/twentyhq/twenty",
+    "LinkedIn": "https://www.linkedin.com/company/twenty"
+  }
+]
