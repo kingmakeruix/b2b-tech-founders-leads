@@ -1,8 +1,9 @@
 # 📊 B2B Tech Founders, CEOs & Investor Lead Dataset
 
-[![Dataset: Verified](https://img.shields.io/badge/Dataset-Verified%20Contacts-green.svg)](https://github.com/kingmakeruix/b2b-tech-founders-leads)
-[![Format: CSV / JSON](https://img.shields.io/badge/Format-CSV%20%7C%20JSON-blue.svg)](https://github.com/kingmakeruix/b2b-tech-founders-leads)
+[![Dataset: Verified](https://img.shields.io/badge/Dataset-Verified%20Contacts-green.svg)](https://github.com/whyst0ne/b2b-tech-founders-leads)
+[![Format: CSV / JSON](https://img.shields.io/badge/Format-CSV%20%7C%20JSON-blue.svg)](https://github.com/whyst0ne/b2b-tech-founders-leads)
 [![License: CC-BY-4.0](https://img.shields.io/badge/License-CC--BY--4.0-yellow.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=flat&logo=github)](https://github.com/sponsors/whyst0ne)
 
 A verified directory of technology startup founders, executives, angel investors, and venture partners designed for outbound sales, recruiting, and B2B growth intelligence.
 
@@ -35,11 +36,11 @@ A verified directory of technology startup founders, executives, angel investors
 ## 🚀 Live On-Demand Extraction
 Need fresh, live leads or targeted scraping?
 Use our companion high-performance Micro-SaaS:
-👉 **[WebOmni API](https://github.com/kingmakeruix/webomni-api)** — Universal Extraction & Web Intelligence Engine.
+👉 **[WebOmni API](https://github.com/whyst0ne/webomni-api)** — Universal Extraction & Web Intelligence Engine.
 
 ---
 
 ## 💼 Commercial & Custom Datasets
 For custom scrapes, enterprise enrichment, or full CRM exports (50k+ verified records), contact the data engineering team or open a discussion in this repository.
 
-Published by [kingmakeruix](https://github.com/kingmakeruix).
+Published by [whyst0ne](https://github.com/whyst0ne).
