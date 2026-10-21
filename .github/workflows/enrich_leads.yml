@@ -1,0 +1,26 @@
+name: Scheduled Lead Enrichment
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python lead_engine.py
+      - name: Commit refreshed leads
+        run: |
+          git config --global user.name "whyst0ne-data-bot"
+          git config --global user.email "bot@whyst0ne.dev"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "chore(data): automated weekly lead dataset enrichment [skip ci]"
+          git push
